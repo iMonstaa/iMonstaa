@@ -5,7 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/sadmonstaa" target="blank"><img src="https://img.shields.io/twitter/follow/sadmonstaa?logo=twitter&style=for-the-badge" alt="sadmonstaa" /></a> </p>
 
+- 🔭 Currently working on a lot of stuff.
 
+- 🌱 I’m currently learning **C++, C, C#, CSS, HTML, and a bunch of other stuff.**
+
+- 👨‍💻 All of my projects will be available here, as well as [behance.net/iMonstaa](behance.net/iMonstaa)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
