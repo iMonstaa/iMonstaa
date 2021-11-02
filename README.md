@@ -23,3 +23,5 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.paypal.me/imonstaa"> <img align="left" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.freepngimg.com%2Fthumb%2Fweb_design%2F48933-2-paypal-donate-button-photos-png-download-free.png" height="100" width="100" alt="imonstaa" /></a></p><br><br>
+
+[![Donate via paypal](https://cdn.worldvectorlogo.com/logos/paypal-2.svg)](https://www.paypal.me/iMonstaa/10)
