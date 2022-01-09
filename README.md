@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **C++, C, C#, CSS, HTML, and a bunch of other stuff.**
 
-- 👨‍💻 All of my projects will be available here, as well as [behance.net/iMonstaa](behance.net/iMonstaa)
+- 👨‍💻 All of my projects will be available here, as well as behance.net/iMonstaa
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
